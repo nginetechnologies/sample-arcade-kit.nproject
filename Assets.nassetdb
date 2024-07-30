@@ -5,7 +5,7 @@
         "name": "Arcade",
         "thumbnail": "e1e1fcda-8553-6baa-cf70-505ca380ec70",
         "tags": [
-            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+            "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
     "289824ab-c9be-8f86-d29c-8f1a810361ca": {
@@ -15,10 +15,18 @@
     "73cf7d13-066a-446f-80e6-36334768d4c4": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Arcade Kit.scene.nasset"
+        "path": "Assets/Arcade Kit.scene.nasset",
+        "metadata": {
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[-3.0,-5.0,4.0],\"rotation\":[-15.0,-0.0,-45.0]}"
+    }
     },
     "guid": "289824ab-c9be-8f86-d29c-8f1a810361ca",
     "imported_assets": [
+        "9b37984d-28bb-4840-a5cb-213238725947",
+        "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7",
+        "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+        "2e5d6458-f003-4d2a-9a46-0f4926ec9e16",
+        "d57353f3-47c2-45c4-9a60-b1e53f530e10",
         "01764bb1-298f-8e9c-624e-3f75c3d1eb1b",
         "04f25fb7-74d2-526f-24f3-8d34f5b4957a",
         "07fcc9b9-008b-6700-e479-c102f4967105",

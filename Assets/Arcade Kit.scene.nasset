@@ -18,18 +18,8 @@
     "children": [
         {
             "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
-            "instanceGuid": "6ba1c22d-c41b-4aae-bebd-36d92e684c1e",
+            "instanceGuid": "befb87a2-6c53-47a4-9256-d938e99b2ae8",
             "data_components": [
-                {
-                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
-                },
-                {
-                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
-                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
-                },
-                {
-                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
-                },
                 {
                     "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
                 },
@@ -37,12 +27,605 @@
                     "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
                 },
                 {
-                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
                 },
                 {
-                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
                 }
             ]
+        },
+        {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40,
+                    -1,
+                    39
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "d57353f3-47c2-45c4-9a60-b1e53f530e10",
+                "looping": true,
+                "volume": 0.1,
+                "outer_radius": 1000
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5e708a6b-c902-c2a6-1370-905250c6f59c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "BG Sound - Green Town"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                }
+            ]
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0,
+                    0,
+                    2
+                ],
+                "rotation": [
+                    0,
+                    0,
+                    89.9994
+                ]
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "",
+                "audio_asset": "2e5d6458-f003-4d2a-9a46-0f4926ec9e16"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                }
+            ]
+        },
+        {
+            "typeGuid": "37000929-8ed6-4f15-a9ec-4f7d15302f02",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -89.999,
+                    0.0,
+                    0.0
+                ]
+            },
+            "37000929-8ed6-4f15-a9ec-4f7d15302f02": {
+                "acceleration": 19.81
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "7be54509-dd70-e4e4-3a63-1ed341cbeae0"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Gravity"
+                }
+            ]
+        },
+        {
+            "typeGuid": "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    3.2569,
+                    4.0131,
+                    2.9937
+                ],
+                "rotation": [
+                    -47.0121,
+                    0,
+                    0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "8f32c5fc-bac8-4d50-97df-bdf0be0ad32e": {
+                "color": "#fdfdfd00",
+                "cascades": 4,
+                "intensity": 10,
+                "cascade_distances": [
+                    6,
+                    12,
+                    32,
+                    60
+                ]
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Directional Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "7be15c72-f784-4f5e-b895-7cc2fbef6355",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    1,
+                    6,
+                    11
+                ],
+                "rotation": [
+                    -45.0121,
+                    0,
+                    0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
+                    "f141b823-5844-4fbc-b106-0635ff52199c"
+                ]
+            },
+            "7be15c72-f784-4f5e-b895-7cc2fbef6355": {
+                "radius": 40,
+                "irradiance": "c7155bc2-c75e-fdc0-485c-f53e04cea03b",
+                "prefiltered": "7680e24f-aec9-f6a9-f9d2-398e5e80f4b7"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Environment Light"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                }
+            ]
+        },
+        {
+            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    -3.0848
+                ],
+                "scale": [
+                    100.0
+                ]
+            },
+            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                "stages": [
+                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
+                ]
+            },
+            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                "mesh": "540e608c-9479-123a-f12e-3cf1b42de797",
+                "material_instance": "9b37984d-28bb-4840-a5cb-213238725947"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "6d891b65-da8b-27bf-25f2-3383aca9f538"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                    ]
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Skysphere"
+                }
+            ]
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "c139ad32-e1b5-5948-a775-5cfe3354ef7d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Air Hockey Table"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "8b1030a2-7657-f3a7-15b8-7d27f82f9277"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2e445a8b-8778-c029-8ee5-2aa0875be93f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Air Hockey Player 1"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "31a33fb6-1d09-e383-c727-8b95d4b92f18"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "ba7321b4-91c3-b83c-5b27-ccb6f5b66288",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Air Hockey Player 2"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ccebc769-9973-44af-9fef-7110eb46b9b5"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "461dda1d-12ba-12c8-a9f2-399a13761de6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Air Hockey Puck"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "96da52b3-1d03-a14e-9b43-7de2fa5d3073"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "0067f667-ceb1-0087-d475-6dd48e3be5bc",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Arcade Machine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6e763882-f85c-1beb-b9fd-2581b8f12409"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "139cb714-7ca2-3ad0-a9bc-20dbca63112d",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Basketball Game"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "74907b5c-f524-0f75-ec34-2b61f90033a2"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "2501c8c8-dbc5-0098-63ca-a5c1261aea50",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Basketball"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "68ceca1c-50ac-747c-fc96-5eca763896b1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4ac28cbf-01ec-05d3-56ac-78338cb177fa",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Cash Register"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "f75dd176-52ec-de53-a312-29d7693ad964"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "49d184ff-bcd5-d8bf-0d65-0e869cfec0e6",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Claw Machine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "73f1fe0e-095c-4985-3200-a95bcb01a486"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "03f01290-46e0-5b1d-0fea-dfef52cddad5",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Claw Machine Glass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "29833d41-558b-935a-85d0-56be9061dc55"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a7fe5ee3-151c-ed71-a5a9-dcc4c81adc29",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Column"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7d333f04-c08a-b15c-9eec-16aacb2550bd"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "fd7c246f-bf89-43b0-ffb1-a2f1dd68d02c",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Dance Machine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "cf64db73-c0d1-6375-d232-710a05b5b86d"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e820feb8-97a3-d528-8a0f-ee591c8b16dd",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Floor"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "b404e10a-6a67-4470-6a01-fb84932176d1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "113843f9-59b2-2018-bd34-b0a9c5e915c0",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Gambling Machine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "31833aa9-96a9-2359-850d-160dd33ecd09"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8aee13ee-fd86-91c2-0452-434d9bcd1c27",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pinball"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "292b2012-301e-6d28-c0f8-744dcb63aa56"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "3bfb6d2d-0a6b-537e-50c2-8f2f5ca5f185",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Pinball Glass"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "e6d3034e-831b-5cae-2b80-f4de447eb60b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "94476064-391b-6a75-e7e6-68d72cb63163",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prize Wheel Base"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "6b264473-c20f-594e-2dc3-bc2848caaed1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "dfbc90dd-1e60-d065-554e-831700a502ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prize Wheel"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7de216da-daeb-7d83-0064-2276e434c71b"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "e6762b05-767b-766a-c59d-8e91893ef60e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Prizes"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "ae6325d2-2317-7f8e-eea8-67834507bb8c"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "83ff5341-4c4d-1a56-fa26-72083200e7e9",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Ticket Machine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "c300e108-9aaf-ac18-07b4-1ae053089fae"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "6547c758-e8c8-fa41-ae45-cf1abd195566",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Vending Machine"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "7489c7b3-2af3-4ab2-344b-11289b516ddf"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "9f6b03cd-806a-0220-c0b4-c508f76d40ae",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "da28dfb6-85bd-2f1f-8b9f-f45f968d2489"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "8d5b55c2-15cb-c799-baba-6cbf992a8c96",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Corner"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "726d0da2-9e48-275e-23ca-f4faf2979f4e"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "a84333fc-b629-b85c-c270-96c08e91da36",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Door Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "32535f94-7d0b-0142-045b-2c87ec176cf1"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "cedb0e08-a868-e44b-379e-e4d45513a892",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Left"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "2a65252e-562a-c0de-2b1b-4722ddf83a44"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "b2d69e7b-1858-d71b-5f72-5b8bf6d9f1c4",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Door Right"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "236e339b-d56a-46c2-a548-80e275073742"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "350e03a6-7c70-0848-c277-57d4b33871cf",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Window Frame"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "759f9e2a-608d-8a85-4658-10f99d1c1699"
+            }
+        },
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "4a0eb2e1-fb9b-3ddd-b726-ea687869f06e",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Wall Window"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "56d40d1b-e7aa-ae9b-02c8-fc1d2ff8f397"
+            }
         }
     ],
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672"
